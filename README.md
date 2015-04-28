@@ -1,5 +1,5 @@
 #_buzzfizz_ 
 
-> is a practice file off **fizzbuzz**
+> **fizzbuzz** twin brother - practice exercise 
 
 
