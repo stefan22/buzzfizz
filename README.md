@@ -1,5 +1,5 @@
 #_buzzfizz_ 
 
-> **fizzbuzz** twin brother - practice exercise 
+> **fizzbuzz** twin brother - a practice exercise 
 
 
